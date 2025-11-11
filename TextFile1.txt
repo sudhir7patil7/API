@@ -1,0 +1,17 @@
+﻿
+
+
+Angular 18 CRUD with ASP .NET Core Web API in Clean architecture using Entity Framework Core
+4.13 Hour = Student List
+---------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=aL1op-YIQE0&list=PLkRbQrkhCOKhsTbqi9Ct8BVZo9klXCRMd
+
+Angular 18 CRUD Application With Asp.Net Core 8 Web API | Angular Project ✅️ 🔥
+---------------------------------------------------------------------------------
+1.13 Hour = Employee List
+https://www.youtube.com/watch?v=ERhz9mgt1yE
+
+C:\Users\Admin\Desktop\CRUD
+---------------------------------------------------
+1.58 Hour = Employee /TIO-CRUD with Angular 14 & .NET 6 �� Web API, EF Core & SQL Server-(1080p) - Shortcut
+
